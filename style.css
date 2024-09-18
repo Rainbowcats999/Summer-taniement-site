@@ -1,5 +1,6 @@
-body {
+body.homepage {
   text-align: center;
+  background-image: url(sixflags.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
