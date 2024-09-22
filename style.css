@@ -1,13 +1,17 @@
-body {
+body.homepage {
   text-align: center;
-  background-image: url();
+  background-image: url(/imgs/sixflags.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
 }
 
-nav {
-margin-bottom: 200px;
-
+body.foodprices {
+  text-align: center;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
 }
