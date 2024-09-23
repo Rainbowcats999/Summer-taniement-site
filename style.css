@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-image: url("imgs/park.jpg");
+  background-color: aqua;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -9,7 +9,7 @@ body {
 
 body.foodprices {
   text-align: center;
-  background-image: url();
+  background-color: aqua;
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -24,11 +24,25 @@ card-img-top{
   height: 300px;
 }
 
-.card {
+card {
 background-color:black;
 margin-left: 20px;
 margin-right: 20px;
 margin-top: 20px;
 margin-bottom: 20px;
 color: white
+}
+
+h1 {
+font-family: "cc-summer-fling", sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+}
+
+h4 {
+font-family: "cc-summer-fling", sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
 }
