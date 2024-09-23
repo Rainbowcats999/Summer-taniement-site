@@ -16,6 +16,15 @@ body.foodprices {
   background-size: cover;
 }
 
+body.rides {
+  text-align: center;
+  background-color: aqua;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 h5 {
   text-align: center;
 }
