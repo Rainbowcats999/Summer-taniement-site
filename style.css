@@ -1,6 +1,6 @@
-body.homepage {
+body {
   text-align: center;
-  background-image: url(/imgs/sixflags.jpg);
+  background-image: url("imgs/park.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -14,4 +14,21 @@ body.foodprices {
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
+}
+
+h5 {
+  text-align: center;
+}
+
+card-img-top{
+  height: 300px;
+}
+
+.card {
+background-color:black;
+margin-left: 20px;
+margin-right: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+color: white
 }
