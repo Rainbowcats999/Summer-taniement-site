@@ -25,6 +25,15 @@ body.rides {
   background-size: cover;
 }
 
+body.myexperience {
+  text-align: center;
+  background-color: aqua;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 h5 {
   text-align: center;
 }
@@ -52,4 +61,15 @@ font-family: "cc-summer-fling", sans-serif;
 font-weight: 400;
 font-style: normal;
 text-align: center;
+}
+
+img {
+height: 500px;
+}
+
+.card {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
